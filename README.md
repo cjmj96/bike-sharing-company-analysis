@@ -1,4 +1,4 @@
-# Analysis for a Bike Sharing Company market strategy
+# Bike Sharing Company Analysis for Market Strategy
 
 ## Background and overview
 
