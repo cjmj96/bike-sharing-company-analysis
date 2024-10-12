@@ -11,7 +11,7 @@ Cyclistic's financial analysts have concluded that annual members are much more 
 
 This project analyzes Cyclistic's historical cycling trip data to design marketing strategies aimed at converting casual cyclists into annual members.
 
-The data set used is from a real company called [Divvy](https://divvybikes.com/). Here are the [data](https://divvybikes.com/system-data).
+The data set being used comes from a company called [Divvy](https://divvybikes.com/). Here is the [data](https://divvybikes.com/system-data).
 
 Findings and recommendations are provided in the following key areas:
 
@@ -63,7 +63,7 @@ Trips by casual users have a median trip length of 13.96 minutes or 59.33% longe
 
 At the daily level, casual users have a median trip duration of 13.09 minutes or 55.35% longer compared to annual users (8.44 minutes). 
 
-![daily-travel-duration](./daily-travel-duration.png)
+![daily-trip-duration](./daily-trip-duration.png)
 
 This also reveals that casual users took trips with fluctuating trip durations, while annual users remained constant.
 
