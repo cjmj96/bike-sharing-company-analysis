@@ -9,15 +9,17 @@ Until now, Cyclistic's marketing strategy has been based on generating general a
 
 Cyclistic's financial analysts have concluded that annual members are much more profitable than casual riders. While flexible pricing helps Cyclistic attract more customers, the marketing director believes that maximizing annual memberships will be key to future growth. Rather than creating a marketing campaign that targets new customers, she believes there is a very good opportunity to convert casual users into members. She points out that casual users are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
-This project analyzes Cyclistic's historical cycling trip data to design marketing strategies aimed at converting casual cyclists into annual members.
+This project analyzes historical trip data from Cyclistic to design marketing strategies aimed at converting casual to annual users.
 
 The data set being used comes from a company called [Divvy](https://divvybikes.com/). Here is the [data](https://divvybikes.com/system-data).
 
 Findings and recommendations are provided in the following key areas:
 
-- Temporal comparative analysis: analyzes and discovers patterns at different temporal granularities.
+- Temporal comparative analysis: Analyzes and discovers patterns at different temporal granularities.
 
-- Behavioral analysis: Analyze the usage patterns of Cyclistic users.
+- Behavioral analysis: Analyze the usage patterns of casual and annual users.
+
+
 
 ## Data Structure and Initial Checks
 
