@@ -125,16 +125,26 @@ Stations also repeat the same pattern. Annual users used more stations located i
 
 Based on the insights gained about the usage patterns of annual and casual users, here are some practical recommendations:
 
-- Create promotions based on seasonal usage patterns: Offer special discounts or limited-time promotions on annual memberships targeted at casual users on the weekend. These promotions could emphasize how an annual membership would reduce the cost of frequent weekend usage and allow them to take advantage of weekdays for free or at a discounted price. Run midday promotions (e.g., 1-4 p.m.) with pop-up ads, email notifications, or in-app notifications that highlight the benefits of annual memberships, such as unlimited travel or discounts for longer trips.
+- Develop promotions based on trends over time: Offer annual memberships exclusive 
+deals on the weekends. By offering them the opportunity to enjoy weekdays at a discounted 
+rate and utilizing the service on weekends, the advantages of this should be 
+emphasized. The previous could be extended to particular times of the day by using 
+internal app notifications, email alerts, or pop-up advertisements emphasizing the 
+advantages of annual memberships, like savings for longer trips.
 
-- Leverage geographic preferences for targeted advertising: Create targeted ads near tourist attractions (both physical ads and digital ads and geo-targeted mobile ads) that emphasize the convenience and cost-effectiveness of an annual membership for those who frequently visit these areas. This could especially appeal to local tourists or residents who frequently visit these locations, but have not committed to an annual membership.
+- Promote the convenience of commuting to work using annual memberships. Target casual users 
+who use the system during peak transportation hours (or near residential stations) by promoting 
+the benefits of an annual membership for daily commutes. Cyclistic could partner with local 
+businesses to offer corporate memberships where employers can subsidize annual memberships 
+for their employees.
 
-- Promote the convenience of commuting using annual memberships. Target casual users who use the system during peak commute times (or near residential stations) by promoting the benefits of an annual membership for commuting. Highlight the cost savings for those who would otherwise pay for individual trips during peak commute times. Also, Cyclistic could partner with local businesses to offer corporate memberships where employers can subsidize annual memberships for their employees. This would be especially appealing to casual riders who use the service occasionally to commute but have not yet committed to an annual membership.
+- Highlight the benefits of classic bikes in membership plans: Since both types of users prefer 
+classic bikes, emphasize the unlimited use of classic bikes in the annual membership 
+promotions. For casual users, emphasize how the membership allows unlimited leisure rides 
+on their preferred type of bicycle.
 
-- Encourage casual users to become frequent users: Offer trip-based incentives (e.g., after a certain number of casual rides, they get a discount on an annual membership) to encourage casual users to consider upgrading. We can structure it as a loyalty program that rewards frequent usage with membership discounts. Additionally, we can create membership packages specifically for casual users who mostly use Cyclistic on weekends or for leisure. These packages could include additional benefits such as discounts on bike rentals for friends or free ride credits for weekend trips, making annual membership more attractive to regular cyclists.
+- Improve the locations of the stations for casual users: Cyclistic could consider increasing the 
+number of stations near tourist and entertainment areas, as these are more frequented by casual users.
 
-- Highlight the benefits of classic bikes in membership plans: Since both types of users prefer classic bikes, emphasize unlimited use of classic bikes in annual membership promotions. For casual users, emphasize how membership allows unlimited leisure rides on their preferred type of bike.
-
-- Optimize station locations for casual users: Cyclistic could consider increasing the number of stations near tourist and leisure locations, as these are most used by casual users. This would make the service more attractive and accessible to casual users, increasing the likelihood of conversion.
-
-- Promote exclusive member benefits at high-traffic stations: Offer exclusive benefits to annual members at stations close to high-traffic tourist or leisure locations (priority bike access, discounts). This would encourage casual users to consider upgrading to access these benefits.
+- Promote unique advantages for annual members at high-demand stations: Provide unique advantages to 
+annual users at stations near high-traffic tourist or leisure sites, such as priority access or discounts.
