@@ -102,7 +102,26 @@ At the daily level, annual users made an average of 25,730 trips, while casual u
 
 #### Bicycle type preference
 
-Both types of users prefer classic bicycles (62%) for their trips. This pattern remains consistent at different granularities.
+Both types of users prefer classic bicycles for their trips. This pattern remains consistent at different granularities.
+
+
+Monthly, users, whether annual or casual, preferred classic bicycles for 60% or more of the trips.
+
+
+![monthly-bike-preference](montly-bike-preference.png)
+
+
+Weekly, users, whether annual or casual, preferred classic bicycles, like every month.
+
+
+![weekly-bike-preference](weekly-bike-preference.png)
+
+
+Every day, users, whether annual or casual, preferred classic bicycles, just like they did on a monthly and weekly basis.
+
+![daily-bike-preference](daily-bike-preference.png)
+
+
 
 ### Behavioral analysis
 
